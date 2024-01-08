@@ -65,7 +65,7 @@
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
-        {%when 'twitter' %}
+        {% when 'twitter' %}
           {%- capture url -%}
           {% assign url = '/sh' | relative_url %}
           {%- endcapture -%}
