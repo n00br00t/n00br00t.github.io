@@ -67,8 +67,8 @@
           {%- endcapture -%}
         {% when 'twitter' %}
           {%- capture url -%}
-          {% assign url = '/sh' | relative_url %}
-          {%- endcapture -%}
+            /sh
+          {%- endcapture %}        
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}
           {%- capture url -%}
