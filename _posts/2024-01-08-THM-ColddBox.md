@@ -64,10 +64,11 @@ de interessante apenas /hidden e a pagina de login do wordpress /wp-admin
 
 conteúdo da /hidden
 
-```htm
+```text
 U-R-G-E-N-T
 
-C0ldd, you changed Hugo's password, when you can send it to him so he can continue uploading his articles. Philip
+C0ldd, you changed Hugo's password, when you can send it to
+him so he can continue uploading his articles. Philip
 ```
 {: .nolineno }
 
