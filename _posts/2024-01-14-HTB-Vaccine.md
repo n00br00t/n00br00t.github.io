@@ -86,7 +86,7 @@ $zip2john backup.zip > hash
 $john hash
 ``
 
-Dentro do foi zip encontrado:
+Dentro do zip foi encontrado:
 index.php
 onde contem login e senha.
 
