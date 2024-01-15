@@ -11,10 +11,10 @@ show_image_post: true
 
 ___
 
-# TryhackMe - ColddBox Fácil
+# **TryhackMe - ColddBox Fácil**
 ---
 ---
-## Enumeração
+## **Enumeração**
 
 Ao acessar o site chequei com a extensão wappalyser
 
@@ -90,7 +90,7 @@ him so he can continue uploading his articles. Philip
  | Confirmed By: Login Error Messages (Aggressive Detection)
 ```
 {: .nolineno }
-## Acesso
+## **Acesso**
 
 ### hydra
 
@@ -157,7 +157,7 @@ export TERM=xterm-256color
 ```
 {: .nolineno }
 
-## Escalação de privilégio
+## **Escalação de privilégio**
 
 Por pesquisa descobri que  wp-config.php contem login:senha do mysql
 
