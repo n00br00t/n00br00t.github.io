@@ -1,7 +1,7 @@
 ---
 description: CTF do HackTheBox como fiz e anotações.
 title: HackTheBox - CozyHosting - Fácil
-date: 2024-01-17 19:01:00 +/-0300
+date: 2024-01-17 06:36:00 +/-0300
 categories: [CTF, HackTheBox]
 tags: [ctf, hackthebox, linux, sudo, facil, burp, postgres,]     # TAG names should always be lowercase
 show_image_post: true
