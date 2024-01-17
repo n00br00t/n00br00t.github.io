@@ -412,4 +412,4 @@ root
 - Comandos Postgres (psql)
 - wordlist especifica para a aplicação.
 - usar quando não é permitido espaços ${IFS} (IFS = Internal Field Separator).
-![Alt text](/assets/img/9cozyhosting.png)
+![Alt text](/assets/img/9cozyhosting.png)  
