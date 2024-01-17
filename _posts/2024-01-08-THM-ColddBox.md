@@ -11,7 +11,7 @@ show_image_post: true
 
 ___
 
-# **TryhackMe - ColddBox Fácil**
+# **CTF - ColddBox**
 ---
 ---
 ## **Enumeração**

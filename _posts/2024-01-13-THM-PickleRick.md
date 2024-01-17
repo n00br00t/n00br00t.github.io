@@ -10,7 +10,7 @@ show_image_post: true
 ![piclericky](/assets/img/pickrick3.jpg){: w="100" h="100" .left}
 
 ---
-# CTF Pickle Rick - Fácil
+# CTF - Pickle Rick
 ---
 ---
 ## Enumeração

@@ -9,7 +9,7 @@ show_image_post: true
 ![Alt text](/assets/img/rootmelogo.png){: w="100" h="100" .left}
 
 ---
-# THM - Root Me - Fácil
+# CTF - Root Me
 ---
 ## **Enumeração**
 

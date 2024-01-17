@@ -9,7 +9,7 @@ show_image_post: true
 ![logo](/assets/img/unifilogo.png){: w="100" h="100" .left}
 
 ---
-# **CTF - HTB Unified - Fácil**
+# **CTF - Unified**
 ---
 ## **Enumeração**
 
