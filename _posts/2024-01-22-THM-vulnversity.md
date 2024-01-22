@@ -123,7 +123,7 @@ Rodei o ffuf novamente pra ver onde foi parar o arquivo.
 ``$ ffuf -c -w /usr/share/wordlists/dirb/big.txt -u http://10.10.152.108:3333/internal/FUZZ -t 200 -v -e .php,.txt,.old,.bkp``
 ![Alt text](/assets/img/vulnversity7.png)
  
- Executada em <http://10.10.152.108:3333/internal/uploads/shell.phtml>
+ Executada em `http://10.10.152.108:3333/internal/uploads/shell.phtml`
  
 ```shell
  ┌──(kali💀kali)-[~/thm/vulnversity]
