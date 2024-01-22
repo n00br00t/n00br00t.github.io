@@ -75,12 +75,12 @@ server-status           [Status: 403, Size: 302, Words: 22, Lines: 12, Duration:
 {: .nolineno }
 
 index of  
-- <http://10.10.64.102:3333/css/>  
-- <http://10.10.64.102:3333/fonts/>  
-- <http://10.10.64.102:3333/images/>  
+- `http://10.10.64.102:3333/css/`  
+- `http://10.10.64.102:3333/fonts/`  
+- `http://10.10.64.102:3333/images/`  
   
 página de upload
-- <http://10.10.64.102:3333/internal/>
+- `http://10.10.64.102:3333/internal/`
 
 
  Apache httpd 2.4.18 ((Ubuntu)) tem exploit de escalação de privilégio.
