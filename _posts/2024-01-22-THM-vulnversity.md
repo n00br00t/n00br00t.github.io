@@ -89,9 +89,9 @@ página de upload
  Tentei alguns formatos de arquivos na pagina de upload (php, php5, php7, txt jpg) sem sucesso.
 
 
- Bursuite na página de upload
+### Bursuite
  
- Vamos interceptar o request, pode enviar qualquer arquivo txt
+ Vamos interceptar o request da página de upload, pode enviar qualquer arquivo txt
  
  ![Alt text](/assets/img/vulnversity1.png)
 
