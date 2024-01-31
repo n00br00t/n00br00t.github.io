@@ -196,7 +196,7 @@ Encontrado pagina de `registro e uploads`, a upload somente é acessível caso t
 Não foi possível envio de arquivo .php, vou usar o burp e descobrir quais extensões sao possíveis de enviar
 
 Resultado das extensões que nos interessa.  
-O processo abaixo tem aqui <http://n00br00t.github.io/posts/THM-vulnversity/#bursuite> passo a passo. Além do que está no link nesse você deve em settings marcar opção de follow redirect.
+O processo abaixo tem aqui <https://n00br00t.github.io/posts/THM-vulnversity/#bursuite> passo a passo. Além do que está no link nesse você deve em settings marcar opção de follow redirect.
 ![Alt text](/assets/img/hospital2.png)
 
 Renomeie meu reverse shell em php para `xd.phps`, upload com sucesso, porém não executou, deu erro.  
