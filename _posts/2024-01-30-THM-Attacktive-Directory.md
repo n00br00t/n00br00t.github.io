@@ -473,3 +473,8 @@ Agora só sair dando type nos arquivos .txt
 
 **Conhecimentos adquiridos**
 - Praticamente tudo.
+- ASREPRoasting. privilégio "Não requer pré-autenticação"
+- Uso das ferramentas abaixo.
+- Kerbrute
+- Impacket
+- Evil-WinRm
