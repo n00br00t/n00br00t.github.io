@@ -3,14 +3,14 @@ description: CTF do TryhackME como fiz e anotações.
 title: TryhackMe - Anthem - Fácil
 date: 2024-02-12 23:47:00 +/-0300
 categories: [CTF, TryHackMe]
-tags: [ctf, tryhackme, windows, web, facil, RDP, crackmapexec]     # TAG names should always be lowercase
+tags: [ctf, tryhackme, windows, web, facil, RDP]     # TAG names should always be lowercase
 show_image_post: true
 ---
 
 ![Logo](/assets/img/Anthem.gif){: w="100" h="100" .left}
 
 ---
-# **CTF - Blueprint**
+# **CTF - Anthem**
 ---
 ---
 ## **Enumeração**
