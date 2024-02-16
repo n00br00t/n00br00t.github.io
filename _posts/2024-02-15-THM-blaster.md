@@ -176,7 +176,7 @@ Possível usuário `wade`
 Confirmando se existe usuário wade:
 ![alt text](/assets/img/blaster/blaster2.png)
 
-Em uma resposta a um post temos esse comentário, possível senha.
+Em uma resposta a um post temos esse comentário, que é uma possível senha.
 (Claro pura realidade)
 ![alt text](/assets/img/blaster/blaster3.png)  
 
