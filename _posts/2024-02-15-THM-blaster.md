@@ -24,7 +24,7 @@ show_image_post: true
 
 
 ```shell
-─      ~/thm/blaster                                                                   ✔ 
+─      ~/thm/blaster        
 ╰─ sudo nmap -Pn -sS -sV --min-rate 5000 -stats-every 7s -p- 192.168.15.4 -oN nmap
 
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-02-13 22:54 -03
