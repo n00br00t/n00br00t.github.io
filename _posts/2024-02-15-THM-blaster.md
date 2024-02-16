@@ -16,7 +16,7 @@ show_image_post: true
 
 
 > Essa VM pode ser baixada [aqui](https://darkstar7471.com/resources.html) e ser executada localmente.
-{: .prompt-info}
+{: .prompt-info}  
 ## **Enumeração**
 
 
