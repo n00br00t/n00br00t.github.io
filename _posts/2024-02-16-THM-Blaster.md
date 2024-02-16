@@ -3,7 +3,7 @@ description: CTF do TryhackME como fiz e anotações.
 title: TryhackMe - Blaster - Fácil
 date: 2024-02-16 04:10:00 +/-0300
 categories: [CTF, TryHackMe]
-tags: [ctf, tryhackme, windows, wordpress, facil, metasploit, RDP]     # TAG names should always be lowercase
+tags: [ctf, tryhackme, windows, wordpress, facil, metasploit, rdp]     # TAG names should always be lowercase
 show_image_post: true
 ---
 
