@@ -3,7 +3,7 @@ description: CTF do TryhackME como fiz e anotações.
 title: TryHackMe - Pickle Rick - Fácil
 date: 2024-01-13 11:47:00 +/-0300
 categories: [CTF, TryHackMe]
-tags: [ctf, tryhackme, linux, SUID, web, facil]     # TAG names should always be lowercase
+tags: [ctf, tryhackme, linux, suid, web, facil]     # TAG names should always be lowercase
 show_image_post: true
 ---
 

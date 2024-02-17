@@ -3,7 +3,7 @@ description: CTF do TryhackME como fiz e anotações.
 title: TryhackMe - RootMe - Fácil
 date: 2024-01-15 19:01:00 +/-0300
 categories: [CTF, TryHackMe]
-tags: [ctf, tryhackme, linux, SUID, facil]     # TAG names should always be lowercase
+tags: [ctf, tryhackme, linux, suid, facil]     # TAG names should always be lowercase
 show_image_post: true
 ---
 ![Alt text](/assets/img/rootmelogo.png){: w="100" h="100" .left}
