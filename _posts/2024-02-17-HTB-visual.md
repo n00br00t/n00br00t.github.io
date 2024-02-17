@@ -3,7 +3,7 @@ description: CTF do Hack The Box como fiz e anotações.
 title: HackTheBox - Visual - Médio
 date: 2024-02-17 00:17:00 +/-0300
 categories: [CTF, HackTheBox]
-tags: [ctf, hackthebox, windows, script, web, medio, WSL]     # TAG names should always be lowercase
+tags: [ctf, hackthebox, windows, script, web, medio]     # TAG names should always be lowercase
 show_image_post: true
 ---
 ![logo](/assets/img/visual.png){: w="100" h="100" .left}
