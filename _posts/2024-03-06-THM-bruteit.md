@@ -10,7 +10,7 @@ show_image_post: true
 ![Logo](/assets/img/bruteit/bruteit.jpg){: w="100" h="100" .left}
 
 ---
-# **CTF - Brute it**
+# **CTF - Brute it** 
 ---
 ---  
 ## **Enumeração**
