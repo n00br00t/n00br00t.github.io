@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://blog.cybsec.dev/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/categories/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/Todos/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/$-whoami/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/revshell/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Headless/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-Overpass/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Perfection/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HMV-bah/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-bruteit/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HMV-arroutada/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HMV-friendly123/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-internal/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-crafty/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-visual/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/page2/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/page3/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/page4/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/ctf/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/facil/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/linux/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/web/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/hackthebox/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/tryhackme/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/sudo/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/windows/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/medio/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/suid/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/categories/ctf/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/categories/hackmyvm/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/categories/hackthebox/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/categories/tryhackme/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/active-directory/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/adcs/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/burp/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/certipy/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/crackmapexec/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/crontab/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/ftp/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/hackmyvm/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/impacket/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/keepass/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/ligolo/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/log4j/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/metasploit/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/mysql/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/nfs/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/path/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/pivoting/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/postgres/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/rce/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/rdp/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/redis/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/rsync/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/ruby/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/script/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/sqli/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/ssh/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/stti/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/suid3num/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/walk/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/wordpress/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/wsl/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/tags/xss/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-Blaster/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-anthem/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-blueprint/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Devvortex/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Analytics/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Manager/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-pov/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-VulnNet-Roasted/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Keeper/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Hospital/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-Attacktive-Directory/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-codify/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-Simplectf/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-vulnversity/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Sau/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-MrRobot/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-BasicPentesting-facil/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-CozyHosting-Facil/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-rootMe/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Unified/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/HTB-Vaccine/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-PickleRick/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.cybsec.dev/posts/THM-ColddBox/</loc>
+  <lastmod>2026-02-03T01:29:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
